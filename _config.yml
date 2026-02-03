@@ -9,7 +9,7 @@ last_name:
 email: customnlp4u@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Workshop on Customizable NLP @ ACL 2026
+  Second Workshop on Customizable NLP @ ACL 2026
 keywords: customizable NLP, workshop, emnlp  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

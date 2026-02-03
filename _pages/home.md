@@ -28,10 +28,10 @@ nav_order: 1
 All deadlines are 11:59 PM AoE (Anywhere on Earth) time.
 
 * Submission Portal: [OpenReview](https://openreview.net/group?id=ACL/2026/Workshop/CustomNLP4U)
-* Submission Deadline: TBD
-* Notification of Acceptance: TBD
+* Submission Deadline: Aril 3, 2026
+* Notification of Acceptance: May 25, 2026
 * Camera-ready papers due: TBD
-* Workshop Date: Thursday, July 3, 2026 (9:00 AM - 12:30 PM PT)
+* Workshop Date: July 3, 2026 (9:00 AM - 12:30 PM PT)
 <br>
 
 ### Topics of Interest
@@ -67,14 +67,14 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/sachin.png" alt="Name 1">
-            <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
-            <p>Ohio State University, Allen Institute for AI</p>
+            <img src="/assets/img/organizers/sheshera.jpg" alt="Name 1">
+            <a href="https://msheshera.github.io/">Sheshera Mysore</a>
+            <p>Microsoft Research</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/chan.jpg" alt="Name 3">
-            <p><a href="https://chan0park.github.io/">Chan Young Park</a>
-            <br>Carnegie Mellon University</p>
+            <img src="/assets/img/organizers/sachin.png" alt="Name 1">
+            <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
+            <p>The Ohio State University, Allen Institute for AI</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/vidhisha.jpg" alt="Name 4">
@@ -82,14 +82,19 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
             <br>Microsoft Research</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/weijia.png" alt="Name 2">
-            <p><a href="https://swj0419.github.io/">Weijia Shi</a>
-            <br>University of Washington</p>
-        </div>
-        <div class="team-member">
             <img src="/assets/img/organizers/shirley.jpeg" alt="Name 5">
             <p><a href="https://www.shirley.id/">Shirley Anugrah Hayati</a>
             <br>University of Minnesota, Twin Cities</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/faeze.jpg" alt="Name 5">
+            <p><a href="https://fabrahman.github.io/">Faeze Brahman</a>
+            <br>Allen Institute for AI</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/hanane.jpg" alt="Name 5">
+            <p><a href="https://sites.google.com/view/hananenourmoussa">Hanane Nour Moussa</a>
+            <br>The Ohio State University</p>
         </div>
         </div>
 </html>
@@ -100,19 +105,9 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/yulia.jpg" alt="Name 1">
-            <a href="https://homes.cs.washington.edu/~yuliats/">Yulia Tsvetkov</a>
-            <p>University of Washington</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/noah.jpg" alt="Name 3">
-            <p><a href="https://nasmith.github.io/">Noah A. Smith</a>
-            <br>University of Washington</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/organizers/hanna.jpg" alt="Name 4">
-            <p><a href="https://homes.cs.washington.edu/~hannaneh/">Hannaneh Hajishirzi</a>
-            <br>University of Washington</p>
+            <img src="/assets/img/organizers/hamed.jpg" alt="Name 2">
+            <p><a href="https://groups.cs.umass.edu/zamani/">Hamed Zamani</a>
+            <br>University of Massachusetts Amherst</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/dykang.jpg" alt="Name 2">
@@ -120,9 +115,9 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
             <br>University of Minnesota, Twin Cities</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/david.jpg" alt="Name 5">
-            <p><a href="https://jurgens.people.si.umich.edu/">David Jurgens</a>
-            <br>University of Michigan</p>
+            <img src="/assets/img/organizers/yulia.jpg" alt="Name 1">
+            <a href="https://homes.cs.washington.edu/~yuliats/">Yulia Tsvetkov</a>
+            <p>University of Washington</p>
         </div>
         </div>
 </html>

@@ -7,7 +7,8 @@ nav_order: 2
 ---
 # Schedule
 
-**Workshop Date:** Thursday, July 3, 2026 (9:00 AM - 12:30 PM PT)
+**TBD.**
+<!-- **Workshop Date:** Thursday, July 3, 2026 (9:00 AM - 12:30 PM PT)
 
 | Time | Event | Speaker/Details |
 |------|-------|-----------------|
@@ -17,11 +18,11 @@ nav_order: 2
 | 10:45 AM - 11:00 AM | Coffee Break | |
 | 11:00 AM - 11:45 AM | Invited Talk 3 | TBD |
 | 11:45 AM - 12:15 PM | Panel Discussion | TBD |
-| 12:15 PM - 12:30 PM | Closing Remarks | Organizing Committee |
+| 12:15 PM - 12:30 PM | Closing Remarks | Organizing Committee | -->
 
 # Invited Speakers
 
-Details coming soon.
+**TBD.**
 
 <!-- Add speaker bios and talk abstracts here when confirmed -->
  
