@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on CustomNLP4U</h3>
+title: <h3  align="center">Second Workshop on CustomNLP4U</h3>
 nav_order: 1
 ---
 
