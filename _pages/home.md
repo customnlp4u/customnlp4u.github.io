@@ -69,7 +69,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         <div class="team-member">
             <img src="/assets/img/organizers/sheshera.jpg" alt="Name 1">
             <a href="https://msheshera.github.io/">Sheshera Mysore</a>
-            <p>Microsoft Research</p>
+            <p>Microsoft</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/sachin.png" alt="Name 1">
@@ -84,7 +84,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         <div class="team-member">
             <img src="/assets/img/organizers/shirley.jpeg" alt="Name 5">
             <p><a href="https://www.shirley.id/">Shirley Anugrah Hayati</a>
-            <br>University of Minnesota, Twin Cities</p>
+            <br>University of Minnesota</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/faeze.jpg" alt="Name 5">
@@ -112,7 +112,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         <div class="team-member">
             <img src="/assets/img/organizers/dykang.jpg" alt="Name 2">
             <p><a href="https://dykang.github.io/">Dongyeop Kang</a>
-            <br>University of Minnesota, Twin Cities</p>
+            <br>University of Minnesota</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/yulia.jpg" alt="Name 1">
