@@ -34,8 +34,26 @@ layout: parse
             color: white; /* Set text color to white */
         }
 
-        .headerr h2, .headerr p, .headerr a {
-            color: white; /* Ensure all text and links are white */
+        .headerr h2 {
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8),
+                         -1px -1px 2px rgba(0, 0, 0, 0.6); /* Add shadow for better readability */
+            font-weight: bold;
+        }
+
+        .headerr p {
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); /* Add shadow to paragraph text */
+        }
+
+        .headerr a {
+            color: #4A90E2; /* Blue color for links */
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); /* Shadow for link readability */
+            text-decoration: underline;
+        }
+
+        .headerr a:hover {
+            color: #2E5C8A; /* Darker blue on hover */
         }
         </style>
         
