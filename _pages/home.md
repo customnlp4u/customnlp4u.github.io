@@ -25,14 +25,13 @@ nav_order: 1
 <br>
 ### Important Dates
 
-* Submission Begins:
-  * Submission Portal: [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U)
-* Submission Deadline: ~~Aug 15, 2024~~ **Aug 28, 2024** (11:59pm, anywhere on earth)
-* Notification of Acceptance: ~~Sep 30, 2024~~ **Oct 4, 2024**
-* Camera-ready papers due: Oct 7 (11:59pm, anywhere on earth)
-* Workshop Date: Sat, Nov 16 co-located with EMNLP 2024 in November, Miami
+All deadlines are 11:59 PM AoE (Anywhere on Earth) time.
 
-**EMNLP Findings Papers:** If you would like to present your findings paper as a poster at our workshop, please email us at customnlp4u@gmail.com by October 20th. In your email, please include the following details: the title, abstract, a link to the paper, and a brief explanation of how the paper fits with the theme of our workshop.
+* Submission Portal: [OpenReview](https://openreview.net/group?id=ACL/2026/Workshop/CustomNLP4U)
+* Submission Deadline: TBD
+* Notification of Acceptance: TBD
+* Camera-ready papers due: TBD
+* Workshop Date: Thursday, July 3, 2026 (9:00 AM - 12:30 PM PT)
 <br>
 
 ### Topics of Interest
@@ -50,8 +49,8 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 
 ### Guidelines
 
-* Our author guidelines follow the ARR requirements unless otherwise specified. 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=EMNLP/2024/Workshop/CustomNLP4U&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
+* Our author guidelines follow the ARR requirements unless otherwise specified.
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ACL/2026/Workshop/CustomNLP4U&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
 * We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
   * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)) for your submission. Please follow the paper formatting guidelines general to “*ACL” conferences as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
