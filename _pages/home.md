@@ -36,15 +36,17 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth) time.
 
 ### Topics of Interest
 
-For NLP models to be usable in practice, particularly in emerging scenarios with widely varying use cases, situations, and user expectations, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations) and easily controlled by them; models that can reason about their users’ (often private) knowledge and context to provide personalized responses. The topics of this workshop include (but not limited to):
+Most language modeling research today is focused on building generalist models capable of solving a wide range of tasks with the recipe of pretraining at scale, and reinforcement learning based post-training. The increased capabilities of large language models (LLMs) have promised increased productivity and innovation [1] and seen broad consumption by an ever-widening audience for personal and commercial use [2]. However, users' expectations, values, and workflows can vary significantly across domains, applications, organizations, geography, social groups, cultures, and individuals. Attention to these factors is often missing or under-considered in existing Language Modeling pipelines. Specifically, generalist models have non-uniform performance, for example, for consumers working in sensitive and specialized domains such as law, finance, or health [3, 4]; for individuals, demographics, or cultures less represented online such as speakers of different language varieties [5]. For language models to deliver on their promise of productivity and innovation, particularly in emerging scenarios with widely varying use cases, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations), easily controlled by them, and learn over time [6, 7]; models that can reason about their users' private knowledge and context to provide personalized responses [8, 9].
+Alongside methodological questions, model customization raises ethical and security questions, related to learning from copyrighted data, protecting user privacy, and addressing pernicious biases. This is especially relevant in sensitive domains, where model customization can lead to large benefits for stakeholders but is also associated with higher risks.
 
-* __Data__: Data collection, processing, analysis, and annotation efforts to increase representation and aid customization; discussion and analysis of data sources not publicly available, and associated issues of privacy and copyright.
-* __Modeling__: New pretraining, fine-tuning, inference methods for customizing NLP models; customizing reward models and model alignment to diverse consumers. New modeling paradigms aimed at customization such as model ensembles, model averaging, federated learning, nonparametric models, etc.; customizing models at inference time via prompting, in-context learning, chain-of-thought prompting, etc.
-* __Evaluation__: Evaluation of existing generalist, non-customized models, identifying their shortcomings for varied use-cases; evaluation of customization techniques and customized models; interpretability and analysis of customization patterns across different kinds of consumers.
-* __Open Science__: Best practices for open and reproducible science concerning customizable NLP: dataset release and licensing, open-sourcing models, related privacy, copyright, and policy issues.
-* __Applications__: e.g., information seeking on sensitive data comprising legal, medical, or financial information; NLP models for communities reflecting sociolects, dialects, or other language varieties; personalized AI assistants, etc.
-* __Ethical Issues__: privacy and copyright; personalization, intrusiveness, unintended biases; invisibility versus hypervisibility.
+The topics of this workshop include (but not limited to): 
 
+* **Data**: Data collection, processing, and annotation to aid model customization; analysis of public and private datasets to guide the development of customized models; privacy, and copyright.
+* **Modeling**: New pretraining, fine-tuning, alignment, continuous learning, inference methods for customizing language models; privacy and efficiency for customization. New modeling paradigms for customization such as model ensembles, federated learning, nonparametric models, etc.; customizing models with agentic systems, test-time compute strategies, etc.
+* **Evaluation** of generalist, non-customized models, identifying their shortcomings for varied use-cases; evaluation of customized models.
+* **Applications**: e.g. information seeking, writing assistance, AI assistants etc.; applications in sensitive domains such as law, education, healthcare, finance, etc.; models for communities reflecting sociolects, dialects or other language varieties.
+* **Broader Impacts**: privacy, security, and copyright; intrusiveness, unintended biases; invisibility versus hypervisibility due to customization.
+* **Open Science**: Best practices for open and reproducible science of customizable LMs: dataset release and licensing, open-sourcing models, related privacy, copyright and policy issues.
 <br>
 
 ### Guidelines
@@ -62,6 +64,27 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
 * The review process will be double-blind.
 <br>
 
+### References
+
+[1] Singla, A., Sukharevsky, A., Berteletti, E., Yee, L., & Chui, M. (2025). The next innovation revolution—powered by AI. McKinsey & Company. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-innovation-revolution-powered-by-ai
+
+[2] Liang, W., Zhang, Y., Codreanu, M., Wang, J., Cao, H., & Zou, J. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. arXiv preprint arXiv:2502.09747.
+
+[3] Mahari, R., Stammbach, D., Ash, E., & Pentland, A. (2023). The Law and NLP: Bridging Disciplinary Disconnects. In Findings of the Association for Computational Linguistics: EMNLP 2023. Association for Computational Linguistics.
+
+[4] Tam, T. Y. C., Sivarajkumar, S., Kapoor, S., Stolyar, A. V., Polanska, K., McCarthy, K. R., Osterhoudt, H., Wu, X., Visweswaran, S., Fu, S., et al. (2024). A Framework for Human Evaluation of Large Language Models in Healthcare Derived from Literature Review. NPJ digital medicine, 7(1), 258.
+
+[5] Rystrøm, J., Kirk, H. R., & Hale, S. (2025). Multilingual != Multicultural: Evaluating Gaps Between Multilingual Capabilities and Cultural Alignment in LLMs. arXiv preprint arXiv:2502.16534.
+
+[6] Narayanan, A., & Kapoor, S. (2025). AI as Normal Technology. Knight First Amend. Inst.
+
+[7] Challapally, A., Pease, C., Raskar, R., & Chari, P. (2025). The GenAI Divide: State of AI in Business 2025. https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf
+
+[8] Mireshghallah, N., Kim, H., Zhou, X., Tsvetkov, Y., Sap, M., Shokri, R., & Choi, Y. (2024). Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. In The Twelfth International Conference on Learning Representations.
+
+[9] Sorensen, T., Moore, J., Fisher, J., Gordon, M. L., Mireshghallah, N., Rytting, C. M., Ye, A., Jiang, L., Lu, X., Dziri, N., Althoff, T., & Choi, Y. (2024). Position: A Roadmap to Pluralistic Alignment. In Forty-first International Conference on Machine Learning.
+
+<br>
 
 ## Organizers
 <html>
@@ -69,7 +92,7 @@ For NLP models to be usable in practice, particularly in emerging scenarios with
         <div class="team-member">
             <img src="/assets/img/organizers/sheshera.jpg" alt="Name 1">
             <a href="https://msheshera.github.io/">Sheshera Mysore</a>
-            <p>Microsoft</p>
+            <p>Office of Applied Research, Microsoft</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/sachin.png" alt="Name 1">
