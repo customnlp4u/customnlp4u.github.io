@@ -64,28 +64,6 @@ The topics of this workshop include (but not limited to):
 * The review process will be double-blind.
 <br>
 
-### References
-
-[1] Singla, A., Sukharevsky, A., Berteletti, E., Yee, L., & Chui, M. (2025). The next innovation revolution—powered by AI. McKinsey & Company. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-innovation-revolution-powered-by-ai
-
-[2] Liang, W., Zhang, Y., Codreanu, M., Wang, J., Cao, H., & Zou, J. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. arXiv preprint arXiv:2502.09747.
-
-[3] Mahari, R., Stammbach, D., Ash, E., & Pentland, A. (2023). The Law and NLP: Bridging Disciplinary Disconnects. In Findings of the Association for Computational Linguistics: EMNLP 2023. Association for Computational Linguistics.
-
-[4] Tam, T. Y. C., Sivarajkumar, S., Kapoor, S., Stolyar, A. V., Polanska, K., McCarthy, K. R., Osterhoudt, H., Wu, X., Visweswaran, S., Fu, S., et al. (2024). A Framework for Human Evaluation of Large Language Models in Healthcare Derived from Literature Review. NPJ digital medicine, 7(1), 258.
-
-[5] Rystrøm, J., Kirk, H. R., & Hale, S. (2025). Multilingual != Multicultural: Evaluating Gaps Between Multilingual Capabilities and Cultural Alignment in LLMs. arXiv preprint arXiv:2502.16534.
-
-[6] Narayanan, A., & Kapoor, S. (2025). AI as Normal Technology. Knight First Amend. Inst.
-
-[7] Challapally, A., Pease, C., Raskar, R., & Chari, P. (2025). The GenAI Divide: State of AI in Business 2025. https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf
-
-[8] Mireshghallah, N., Kim, H., Zhou, X., Tsvetkov, Y., Sap, M., Shokri, R., & Choi, Y. (2024). Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. In The Twelfth International Conference on Learning Representations.
-
-[9] Sorensen, T., Moore, J., Fisher, J., Gordon, M. L., Mireshghallah, N., Rytting, C. M., Ye, A., Jiang, L., Lu, X., Dziri, N., Althoff, T., & Choi, Y. (2024). Position: A Roadmap to Pluralistic Alignment. In Forty-first International Conference on Machine Learning.
-
-<br>
-
 ## Organizers
 <html>
     <div class="team-container">
@@ -144,6 +122,28 @@ The topics of this workshop include (but not limited to):
         </div>
         </div>
 </html>
+
+### References
+
+[1] Singla, A., Sukharevsky, A., Berteletti, E., Yee, L., & Chui, M. (2025). The next innovation revolution—powered by AI. McKinsey & Company. 
+
+[2] Liang, W., Zhang, Y., Codreanu, M., Wang, J., Cao, H., & Zou, J. (2025). The Widespread Adoption of Large Language Model-Assisted Writing Across Society. arXiv preprint arXiv:2502.09747.
+
+[3] Mahari, R., Stammbach, D., Ash, E., & Pentland, A. (2023). The Law and NLP: Bridging Disciplinary Disconnects. In Findings of the Association for Computational Linguistics: EMNLP 2023. Association for Computational Linguistics.
+
+[4] Tam, T. Y. C., Sivarajkumar, S., Kapoor, S., Stolyar, A. V., Polanska, K., McCarthy, K. R., Osterhoudt, H., Wu, X., Visweswaran, S., Fu, S., et al. (2024). A Framework for Human Evaluation of Large Language Models in Healthcare Derived from Literature Review. NPJ digital medicine, 7(1), 258.
+
+[5] Rystrøm, J., Kirk, H. R., & Hale, S. (2025). Multilingual != Multicultural: Evaluating Gaps Between Multilingual Capabilities and Cultural Alignment in LLMs. arXiv preprint arXiv:2502.16534.
+
+[6] Narayanan, A., & Kapoor, S. (2025). AI as Normal Technology. Knight First Amend. Inst.
+
+[7] Challapally, A., Pease, C., Raskar, R., & Chari, P. (2025). The GenAI Divide: State of AI in Business 2025.
+
+[8] Mireshghallah, N., Kim, H., Zhou, X., Tsvetkov, Y., Sap, M., Shokri, R., & Choi, Y. (2024). Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. In The Twelfth International Conference on Learning Representations.
+
+[9] Sorensen, T., Moore, J., Fisher, J., Gordon, M. L., Mireshghallah, N., Rytting, C. M., Ye, A., Jiang, L., Lu, X., Dziri, N., Althoff, T., & Choi, Y. (2024). Position: A Roadmap to Pluralistic Alignment. In Forty-first International Conference on Machine Learning.
+
+<br>
 
 <style>
     /* Style for the team container */
