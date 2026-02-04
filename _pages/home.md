@@ -97,6 +97,11 @@ The topics of this workshop include (but not limited to):
             <p><a href="https://sites.google.com/view/hananenourmoussa">Hanane Nour Moussa</a>
             <br>The Ohio State University</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/alireza.jpg" alt="Name 5">
+            <p><a href="https://alirezasalemi7.github.io/">Alireza Salemi</a>
+            <br>University of Massachusetts Amherst</p>
+        </div>
         </div>
 </html>
 <br>
