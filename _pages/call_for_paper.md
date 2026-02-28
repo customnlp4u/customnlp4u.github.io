@@ -13,7 +13,7 @@ nav: false
 :loudspeaker: __The submission deadline is extended to October 4!__
 
 * Submission Begins: September 1, 2023
-  * Submission Portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
+  * Submission Portal: [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/CustomNLP); Style files: [Zip](/assets/template/instruction_workshop_template.zip), [Overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)
 * __Submission Deadline: ~~October 1, 2023~~ October 4, 2023 (11:59pm, anywhere on earth)__
 * Notification of Acceptance: October 27, 2023
 * Camera-ready papers due: November 9, 2023
@@ -36,7 +36,7 @@ Many challenging tasks for foundation models require synthesizing information ov
 
 ### Guidelines
 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction).
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/CustomNLP).
 * We welcome papers __up to 9 pages (max)__, not including references or appendix. 
   * Please use the provided LaTex template ([zip](/assets/template/instruction_workshop_template.zip), [overleaf](https://www.overleaf.com/latex/templates/instruction-workshop-at-neurips-2023-template/fqkhtqxvjrrq)) for your submission.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 

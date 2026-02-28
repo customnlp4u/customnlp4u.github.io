@@ -52,7 +52,7 @@ The topics of this workshop include (but not limited to):
 ### Guidelines
 
 * Our author guidelines follow the ARR requirements unless otherwise specified.
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ACL/2026/Workshop/CustomNLP4U&referrer=%5BHomepage%5D(%2F)#tab-your-consoles).
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/CustomNLP).
 * We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
   * Please use the provided LaTex template ([Overleaf](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)) for your submission. Please follow the paper formatting guidelines general to “*ACL” conferences as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
