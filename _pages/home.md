@@ -27,7 +27,7 @@ nav_order: 1
 
 All deadlines are 11:59 PM AoE (Anywhere on Earth) time.
 
-* Submission Portal: TBD
+* Submission Portal: [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/CustomNLP)
 * Submission Deadline: April 3, 2026
 * Notification of Acceptance: May 25, 2026
 * Camera-ready papers due: TBD
