@@ -61,6 +61,7 @@ The topics of this workshop include (but not limited to):
   * We encourage each submission to discuss the ethical and societal implications of their work, wherever applicable. 
 
 * This workshop offers both archival and non-archival options for submissions. Archival papers will be indexed with proceedings, while non-archival submissions will not.
+* **Double Submissions**: Please email [customnlp4u@gmail.com](mailto:customnlp4u@gmail.com) if you would like to note that your submission is under review at a different venue (i.e. a double submission). Thereafter, we will treat the submission as non archival until you let us know that you would like us to treat the paper as archival. The deadline for letting us know via email will be **27th May 11:59 PM PST**. If your paper is accepted, "Non archival" will mean that the paper will not be included in the workshop proceedings hosted on ACL anthology and will only be listed as an accepted non-archival paper on the workshop website. Paper PDFs from OpenReview will not be public.
 * The review process will be double-blind.
 <br>
 
