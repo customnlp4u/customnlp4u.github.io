@@ -26,7 +26,7 @@ nav_order: 3
     <i>Archival</i>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=e0PLuzVLdz"><b>A Versatile Multi-Modal Agent for Rare Disease Diagnosis and Risk Gene Prioritization</b></a><br>
+    <b>A Versatile Multi-Modal Agent for Rare Disease Diagnosis and Risk Gene Prioritization</b><br>
     Tianyu Liu, Wangjie Zheng, Weihao Xuan, Rui Yang, Botao Yu, Kexin Huang, Nan Liu, Hongyu Zhao<br>
     <i>Non-archival</i>
   </li>
@@ -41,7 +41,7 @@ nav_order: 3
     <i>Archival</i>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=kOUMng3ynd"><b>FD-RAG: Federated Dual-System Retrieval-Augmented Generation</b></a><br>
+    <b>FD-RAG: Federated Dual-System Retrieval-Augmented Generation</b><br>
     Tianhao Gao, Kai Yang, Yiyang Li<br>
     <i>Non-archival</i>
   </li>
@@ -86,7 +86,7 @@ nav_order: 3
     <i>Archival</i>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=ZQalYqmRLp"><b>Hint-Assisted Reasoning: Improving Mathematical Problem Solving in Small Language Models</b></a><br>
+    <b>Hint-Assisted Reasoning: Improving Mathematical Problem Solving in Small Language Models</b><br>
     Jawad Hossain, Xiangyu Guo, Jiawei Zhou, Chong Liu<br>
     <i>Non-archival</i>
   </li>
@@ -106,7 +106,7 @@ nav_order: 3
     <i>Archival</i>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=jrXI4upowY"><b>Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation</b></a><br>
+    <b>Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation</b><br>
     Navreet Kaur, Hoda Ayad, Hayoung Jung, Shravika Mittal, Munmun De Choudhury, Tanu Mitra<br>
     <i>Non-archival</i>
   </li>
@@ -116,7 +116,7 @@ nav_order: 3
     <i>Archival</i>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=TAttdPsxKy"><b>Low-resource Authorship Style Transfer via Dynamic Style Inference and Parameter Modulation</b></a><br>
+    <b>Low-resource Authorship Style Transfer via Dynamic Style Inference and Parameter Modulation</b><br>
     Jongkyung Shin, Minguk Jeon, ChanWooPark, Chiehyeon Lim<br>
     <i>Non-archival</i>
   </li>
