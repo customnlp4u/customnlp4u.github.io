@@ -1,0 +1,23 @@
+Paper ID	Forum link	Title	Authors	Archival
+1	https://openreview.net/forum?id=HVDy3hzwMq	BAID: A Benchmark for Bias Assessment of AI Detectors	Priyam Basu, Yunfeng Zhang, Vipul Raheja	Yes
+3	https://openreview.net/forum?id=gHH3wO0obW	Small Language Models for the Democratization of Financial Literacy: Challenges and Opportunities	Tagore Rao Kosireddy, Jeffrey David Wall, Evan Lucas	Yes
+5	https://openreview.net/forum?id=btkEYFmb6D	From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)	Suyash Mishra, Qiang Li, Anubhav Girdhar, Srikanth Patil	Yes
+12	https://openreview.net/forum?id=e0PLuzVLdz	A Versatile Multi-Modal Agent for Rare Disease Diagnosis and Risk Gene Prioritization	Tianyu Liu, Wangjie Zheng, Weihao Xuan, Rui Yang, Botao Yu, Kexin Huang, Nan Liu, Hongyu Zhao	No
+14	https://openreview.net/forum?id=ZS8tqYq1Qx	Evaluating Customized vs. Generalist Transformer-based Models for Legal Contract Classification	Amrita Singh, H. Suhan Karaca, Aditya Joshi, Hye-young Paik, Jiaojiao Jiang	Yes
+16	https://openreview.net/forum?id=kt6kEJXfHI	Personalizing News Headlines with Retrieval-Augmented Generation	Jiajing Wan, Samia Touileb, Lubos Steskal, Lilja Øvrelid	Yes
+18	https://openreview.net/forum?id=kOUMng3ynd	FD-RAG: Federated Dual-System Retrieval-Augmented Generation	Tianhao Gao, Kai Yang, Yiyang Li	No
+19	https://openreview.net/forum?id=4ri2FY0p3h	Building Multi-turn Intent Classification with LLM-based Labeling	Kaiqi Bian, biancen xie, Jai Ranjan Singh Gusain, Manikandarajan Ramanathan, Rajashekar Maragoud	Yes
+24	https://openreview.net/forum?id=WtmiQJr0jM	Cross-Tokenizer LLM Distillation through a Byte-Level Interface	Avyav Kumar Singh, Yen-Chen Wu, Alexandru Cioba, Alberto Bernacchia, Davide Buffelli	Yes
+26	https://openreview.net/forum?id=GdYjCKNYGP	Fine-grained Readability Controlled Summarization of Scientific Documents via Control Vectors	Isabel Cachola, Kuleen Sasse, Mark Dredze	Yes
+29	https://openreview.net/forum?id=P8FvemwLVy	Building a Custom Taxonomy of AI Skills and Tasks from the Ground Up with Job Postings	Stephen Meisenbacher, Peter Norlander	Yes
+33	https://openreview.net/forum?id=ZHxoEuPg9L	Using Topological Data Analysis to Characterize the Layers of Language Models Before and After Word Substitution Attacks	Adam Tang, Catherine Liu, Kimberly Lopez, Shreya Subramanian, Leif Zinn-Brooks, Alexia E. Schulz, Adaku Uchendu	Yes
+34	https://openreview.net/forum?id=j3HxeckD60	Customizing ASR for Language Documentation and Resource Prioritization	Alexandra Fort, Shobhana Lakshmi Chelliah	Yes
+35	https://openreview.net/forum?id=Kkor7kRRFF	Improving Medical Hallucination Detection with System Combination and Rule-based Customization	Jonathan Lasko, Damianos Karakos, Francis Keith	Yes
+36	https://openreview.net/forum?id=KtGMYnjutx	Asking the Right Questions: Can expert-prompted LLMs reformulate legal queries from non-experts?	Katherine Atwell, Morgan A. Gray, Jaromir Savelka, Len Rial, Sera Linardi, Malihe Alikhani	Yes
+42	https://openreview.net/forum?id=ZQalYqmRLp	Hint-Assisted Reasoning: Improving Mathematical Problem Solving in Small Language Models	Jawad Hossain, Xiangyu Guo, Jiawei Zhou, Chong Liu	No
+45	https://openreview.net/forum?id=1YeyZ2oWpi	When Valid Signals Fail: Regime Boundaries Between LLM Features and RL Trading Policies	Zhengzhe Yang	Yes
+46	https://openreview.net/forum?id=SDYabF7x9i	Unintended Effects of Geographic Conditioning in Large Language Models	Naz Col, David M. Chan	Yes
+49	https://openreview.net/forum?id=Xn3x9P6XKx	Efficiency vs. Verifiability in Evidence-Aware RAG: Does Prompt Compression Preserve Citation Grounding?	Aiyu Li, Qian Peng, Bin Chen	Yes
+51	https://openreview.net/forum?id=jrXI4upowY	Who's Asking? Simulating Role-Based Questions for Conversational AI Evaluation	Navreet Kaur, Hoda Ayad, Hayoung Jung, Shravika Mittal, Munmun De Choudhury, Tanu Mitra	No
+56	https://openreview.net/forum?id=ha6Ze0HNlN	When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges	Parth Darshan, Abhishek Divekar	Yes
+57	https://openreview.net/forum?id=TAttdPsxKy	Low-resource Authorship Style Transfer via Dynamic Style Inference and Parameter Modulation	Jongkyung Shin, Minguk Jeon, ChanWooPark, Chiehyeon Lim	No
