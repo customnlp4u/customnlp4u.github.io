@@ -24,6 +24,16 @@ nav_order: 2
 
 
 <style>
+/* Add a bit more horizontal spacing between schedule table columns */
+table th,
+table td {
+    padding-right: 24px;
+}
+table th:last-child,
+table td:last-child {
+    padding-right: 8px;
+}
+
     /* Style for the team container */
 .team-container {
     display: grid;
