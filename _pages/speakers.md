@@ -7,6 +7,10 @@ nav_order: 2
 ---
 
 ## Talks
+
+**TBD.** New invited speakers for this year will be announced soon.
+
+<!--
 <html>
     <div class="team-container">
         <div class="team-member">
@@ -29,13 +33,14 @@ nav_order: 2
             <p><a href="https://maartjeth.github.io">Maartje ter Hoeve</a>
             <br>Apple ML Research</p>
         </div>
-        <!-- <div class="team-member">
+        <div class="team-member">
             <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
             <p><a href="#">Mitchell</a>
             <br>Columbia University</p>
-        </div> -->
+        </div>
     </div>
 </html>
+-->
 
 <!-- <html>
     <div class="team-container">
