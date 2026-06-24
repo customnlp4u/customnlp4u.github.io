@@ -7,14 +7,14 @@ nav_order: 2
 ---
 # Schedule
 
-| Time | Session |
+| **Time** | **Session** |
 |------|---------|
-| 9:00 – 9:10 am | Opening remarks |
-| 9:10 – 9:50 am | Keynote 1 – TBD |
-| 9:50 – 10:30 am | Keynote 2 – TBD |
-| 10:30 – 11:00 am | Coffee break |
-| 11:00 – 11:30 am | Lightning talks by accepted papers |
-| 11:30 am – 12:30 pm | Poster session |
+| 9:00-9:10 am | Opening remarks |
+| 9:10-9:50 am | Keynote 1 – TBD |
+| 9:50-10:30 am | Keynote 2 – TBD |
+| 10:30-11:00 am | Coffee break |
+| 11:00-11:30 am | Lightning talks by accepted papers |
+| 11:30 am-12:30 pm | Poster session |
 
 # Invited Speakers
 
