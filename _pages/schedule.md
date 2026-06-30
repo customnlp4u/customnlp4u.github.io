@@ -10,8 +10,8 @@ nav_order: 2
 | **Time** | **Session** |
 |------|---------|
 | 9:00-9:10 am | Opening remarks |
-| 9:10-9:50 am | Keynote 1 – Jennifer Neville (Microsoft Research / Purdue University) |
-| 9:50-10:30 am | Keynote 2 – Ramya Korlakai Vinayak (UW-Madison) |
+| 9:10-9:50 am | Keynote 1 |
+| 9:50-10:30 am | Keynote 2 |
 | 10:30-11:00 am | Coffee break |
 | 11:00-11:30 am | Lightning talks by accepted papers |
 | 11:30 am-12:30 pm | Poster session |
@@ -21,7 +21,7 @@ nav_order: 2
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/speakers/jneville-headshot.jpg" alt="Jennifer Neville">
+            <img src="/assets/img/speakers/jneville-headshot.jpg" alt="Jennifer Neville" class="jen-img">
             <p><a href="https://jenneville.github.io/">Jennifer Neville</a>
             <br>Microsoft Research / Purdue University</p>
         </div>
@@ -37,7 +37,7 @@ nav_order: 2
 
 #### Understanding Behavior for Personalized AI
 
-__Speaker:__ Jennifer Neville, Microsoft Research / Purdue University
+__Speaker:__ Jennifer Neville
 
 __Abstract:__ Modern AI systems achieve impressive performance on benchmarks composed of isolated, fully specified tasks. Personal AI assistants, however, operate under very different conditions. Users communicate goals through evolving conversations, leave important details implicit, refine requests over time, and combine tasks into long-running workflows. These realistic interactions require AI systems to continually infer user intent, preserve information across context, and adapt their behavior as interactions unfold.
 In this talk, I will argue that reliable personalization requires reliable behavior. Drawing on recent work spanning complex reasoning, multi-turn conversations, and long-horizon workflows, I will present empirical and theoretical results that reveal recurring failure modes as interaction complexity increases. Together, these findings provide a foundation for understanding why AI systems struggle to adapt reliably to users, and suggest new evaluation paradigms that better reflect the challenges of personalized AI.
@@ -48,7 +48,7 @@ __Bio:__ Jennifer Neville is a Partner Research Manager at Microsoft Research Re
 
 #### Sample-Efficient Personalized Preference Learning for Pluralistic Alignment
 
-__Speaker:__ Ramya Korlakai Vinayak, UW-Madison
+__Speaker:__ Ramya Korlakai Vinayak
 
 __Abstract:__ Large pre-trained generative models such as large language models trained on internet-scale data are often not ready for deployment out-of-the-box. They are heavily fine-tuned and aligned using large quantities of human preference data, usually elicited using pairwise comparisons. While aligning an AI/ML model to human preferences or values, it is important to ask whose preferences and values we are aligning it with? The prominent approaches to preference alignment are severely limited due to the inherent assumption of uniformity in the preference models. We overcome this limitation by building mathematical foundations for learning heterogeneous human preferences. In this talk, I will present PAL, a personalizable reward modeling framework for pluralistic alignment. PAL has a modular design that leverages commonalities across users while catering to individual personalization, enabling efficient few-shot generalization to new users. PAL is versatile enough to be applied to various domains and matches or outperforms state-of-the-art methods on both text-to-text and text-to-image generation tasks with 100x fewer parameters in practice. I will also present mathematical foundations that provide insight into the number of samples needed per user for generalization and the fundamental limitations when there are limited pairwise comparisons, which inform how the data should be collected in practise for the personalization of preferences.
 
@@ -110,6 +110,10 @@ table td:last-child {
 
 .team-member img.ramya-img {
   object-position: center 20%;
+}
+
+.team-member img.jen-img {
+  object-position: center 30%;
 }
 
 .sponsor-container {
