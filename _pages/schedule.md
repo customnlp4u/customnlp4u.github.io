@@ -10,15 +10,30 @@ nav_order: 2
 | **Time** | **Session** |
 |------|---------|
 | 9:00-9:10 am | Opening remarks |
-| 9:10-9:50 am | Keynote 1 – TBD |
-| 9:50-10:30 am | Keynote 2 – TBD |
+| 9:10-9:50 am | Keynote 1 – [Jennifer Neville](https://jenneville.github.io/) (Microsoft Research / Purdue University) |
+| 9:50-10:30 am | Keynote 2 – [Ramya Korlakai Vinayak](https://ramyakv.github.io/) (UW-Madison) |
 | 10:30-11:00 am | Coffee break |
 | 11:00-11:30 am | Lightning talks by accepted papers |
 | 11:30 am-12:30 pm | Poster session |
 
 # Invited Speakers
 
-**To be announced very soon!**
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/jneville-headshot.jpg" alt="Jennifer Neville">
+            <p><a href="https://jenneville.github.io/">Jennifer Neville</a>
+            <br>Microsoft Research / Purdue University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/Ramya_Korlakai_Vinayak.jpg" alt="Ramya Korlakai Vinayak">
+            <p><a href="https://ramyakv.github.io/">Ramya Korlakai Vinayak</a>
+            <br>UW-Madison</p>
+        </div>
+    </div>
+</html>
+
+See the [speakers page](/speakers/) for talk titles, abstracts, and bios.
  
 
 
